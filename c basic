@@ -1,0 +1,39 @@
+Dennis Richie
+Mid level language**
+C-constants are of two types -primary conts , - secondary conts.
+---------------------------------------------------------------------------------------------
+"&d"--this amperstand refers to "ADDRESS OF" which tells the scanf variable where to process
+-----------------------------------------------------------------------------------------------
+three types of instructions in a c program
+a)type declaration
+b)arthematic
+c)control
+-------------------------------------------------------------------------------------
+OPERANDS - [constants+variables]
+---------------------------------------------------------------------------------
+%% IMP %%
+int ad ;
+float kot, deta, alpha, beta ;
+ad = 3200 ;
+kot = 0.0056 ;
+deta = alpha * beta / gamma + 3.2 * 2 / 5 ;
+
++,*, / - arthimetic operaters
+3200 - interger constants
+0.0056 - real conts
+ad - integer variable
+kot, deta - real variables
+=  - assingment operater
+--------------------------------------------------------------------------------------
+%% IMP %%
+int a;
+float b;
+--------
+a=3.9
+b=56
+here, as it is int and float "a" value is taken as 3(int) and b value is taken as 56.00(float)
+-------------------------------------------------------------------------------------------------------
+Nested if-else
+------------------------------------------------------
+
+
